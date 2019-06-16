@@ -6,21 +6,19 @@
 包括了Pearson相似度算法，基于用户的UserCF算法，基于物品的ItemCF算法，slope one算法，TopN推荐，MAE，RMSE，topN推荐准确度，覆盖率计算等常用算法
 
 ---
+[基于物品的协同过滤推荐](https://github.com/zwtforest/RecommenderSystems/tree/master/ItemCF)
 
-    实验代码是两年前写的，编写不太规范，且有些程序时间复杂度上较高，先存在这上面，供以后有需要时在温故、翻新。
+[基于用户的协同过滤推荐](https://github.com/zwtforest/RecommenderSystems/tree/master/UserCF目标项目预测&误差计算MAE)
 
-[Pearson直接相似度](https://github.com/zwtforest)
+[Pearson直接相似度](https://github.com/zwtforest/RecommenderSystems/tree/master/Pearson直接相似度)
 
-[改进的基于物品的ItemCF-IUF相似度](https://github.com/zwtforest)
+[改进的基于物品的ItemCF-IUF相似度](https://github.com/zwtforest/RecommenderSystems/tree/master/ItemCF)
 
-[基于slopeOne的稀疏数据填充&得出的间接相似度](https://github.com/zwtforest)
-
-[基于物品的协同过滤推荐](https://github.com/zwtforest)
-
-[基于用户的协同过滤推荐](https://github.com/zwtforest)
-
+[基于slopeOne的稀疏数据填充&得出的间接相似度](https://github.com/zwtforest/RecommenderSystems/tree/master/基于slopeOne的稀疏数据填充&得出的间接相似度)
 
 ---
+
+>实验代码是两年前写的，编写不太规范，且有些程序时间复杂度上较高，先存在这上面，供以后有需要时在温故、翻新。
 
 #### 关于编写协同过滤推荐算法代码中的一些需要注意的参数细节：
 
